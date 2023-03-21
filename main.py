@@ -21,3 +21,5 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 print('hi')
+print('the end')
+
